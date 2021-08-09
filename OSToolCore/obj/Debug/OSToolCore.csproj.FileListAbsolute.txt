@@ -1,5 +1,0 @@
-C:\Users\EverythingTech\Desktop\OS Projects\OSToolCore\bin\Debug\OSToolCore.dll
-C:\Users\EverythingTech\Desktop\OS Projects\OSToolCore\bin\Debug\OSToolCore.pdb
-C:\Users\EverythingTech\Desktop\OS Projects\OSToolCore\obj\Debug\OSToolCore.csproj.CoreCompileInputs.cache
-C:\Users\EverythingTech\Desktop\OS Projects\OSToolCore\obj\Debug\OSToolCore.dll
-C:\Users\EverythingTech\Desktop\OS Projects\OSToolCore\obj\Debug\OSToolCore.pdb
