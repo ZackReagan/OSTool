@@ -1,5 +1,5 @@
 # OSTool
-This is a project that demonstrates the proper use of the MVVM pattern in a project, albeit suboptimial conditions and Windows-only classes.
+This project is intended for use in ISOs as a integrated resource for people that want a nice looking program without the worry of having to maintain it yourself.
 
 Currently working on dependency injection (without Ninject) and the data structure, which is coming along quite nicely. This project is currently in development and is not finished.
 
