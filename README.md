@@ -1,6 +1,6 @@
 # OSTool
 This project is intended for use in ISOs as a integrated resource for people that want a nice looking program without the worry of having to maintain it yourself. This project was build using Visual Studio 2019 Community using WPF (MVVM pattern) and is split into multiple projects for use in other applications if you decide to use my data and such for your own project.
 
-Currently working on dependency injection (without Ninject) and the data structure, which is coming along quite nicely. This project is currently in development and is not finished.
+Currenly working on the core extension (data for the extension viewmodels and the design model. One of the menus is basically ready to go, and the other two are being worked on. After that, I just have to implement messageboxes, add advanced crash logging (for debugging) and simple crash logging for basic errors, and use XML loosely.
 
 The reason this is a open source project is because I want to assist other developers and hopefully, some will do more than just rip code. All of the practices used and all of the code is hand typed, not copied from a different source. I'm also self taught, didn't use any services or anything, just YouTube (love you AngelSix and Tim Corey) and a lot of experimentation. I guarantee that you can learn this and more if you put your mind to it. Good luck and I hope everyone passing by has a great day!
