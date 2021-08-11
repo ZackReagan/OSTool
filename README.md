@@ -1,5 +1,5 @@
 # OSTool
-This project is intended for use in ISOs as a integrated resource for people that want a nice looking program without the worry of having to maintain it yourself. This project was build using Visual Studio 2019 Community using WPF (MVVM pattern) and is split into multiple projects for use in other applications if you decide to use my data and such for your own project.
+This project is intended for use in ISOs as a integrated resource for people that want a nice looking program without the worry of having to maintain it yourself. This project was build using Visual Studio 2019 Community using WPF (MVVM pattern) and is split into multiple projects for use in other applications if you decide to use my core (and/or core extension) for your own projects.
 
 Currenly working on the core extension (data for the extension viewmodels and the design model. One of the menus is basically ready to go, and the other two are being worked on. After that, I just have to implement messageboxes, add advanced crash logging (for debugging) and simple crash logging for basic errors, and use XML loosely.
 
