@@ -3,7 +3,7 @@ This project is intended for use in ISOs as a integrated resource for people tha
 
 Currenly working on crash logging (for debugging), finalizing the design, and making sure there aren't any hidden bugs.
 
-The reason this is a open source project is because I want to assist other developers and hopefully, some will do more than just rip code. All of the practices used and all of the code is hand typed, not copied from a different source. I'm also self taught, didn't use any services or anything, just YouTube (love you AngelSix and Tim Corey) and a lot of experimentation. I guarantee that you can learn this and more if you put your mind to it. Good luck and I hope everyone passing by has a great day!
+The reason this is a open source project is because I want to assist other developers and hopefully, some will do more than just rip code. I'm also self taught, didn't use any services or anything, just YouTube (love you AngelSix and Tim Corey) and a lot of experimentation. I guarantee that you can learn this and more if you put your mind to it. Good luck and I hope everyone passing by has a great day!
 
 Credits:
 IoC Container (I modified it slightly) - https://www.codeproject.com/Articles/1075189/Lets-write-a-Tiny-IoC-Container-to-learn-and-for-f
