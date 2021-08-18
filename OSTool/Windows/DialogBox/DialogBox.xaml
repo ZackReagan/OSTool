@@ -1,0 +1,35 @@
+﻿<Window x:Class="OSTool.DialogBox" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:OSTool"
+        xmlns:localcore="clr-namespace:OSTool.Core;assembly=OSTool.Core" Title="OSTool" Height="250" Width="400"
+        mc:Ignorable="d"  ShowInTaskbar="False" ResizeMode="NoResize" AllowsTransparency="True" 
+        WindowStartupLocation="CenterScreen" WindowStyle="None" Background="{StaticResource BackgroundSuperDarkBrush}"
+        Topmost="True">
+
+    <WindowChrome.WindowChrome>
+
+        <WindowChrome CaptionHeight="{Binding TitleHeight, Source={x:Static 
+                      local:OSToolViewModel.Instance}}" CornerRadius="15"
+                      GlassFrameThickness="0"/>
+
+    </WindowChrome.WindowChrome>
+
+    <Window.Resources>
+
+        <DataTemplate DataType="{x:Type localcore:OKDialogBoxViewModel}">
+
+            <local:OKDialogBox/>
+
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type localcore:YesNoDialogBoxViewModel}">
+
+            <local:YesNoDialogBox/>
+
+        </DataTemplate>
+
+    </Window.Resources>
+
+    <ContentControl Content="{Binding}"/>
+
+</Window>
