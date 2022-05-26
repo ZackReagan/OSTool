@@ -1,7 +1,5 @@
 # OSTool
-This project is intended for use in ISOs as a integrated resource for people that want a nice looking program without the worry of having to maintain it yourself. This project was build using Visual Studio 2019 Community using WPF (MVVM pattern) and is split into multiple projects for use in other applications if you decide to use my core (and/or core extension) for your own projects.
-
-The reason this is a open source project is because I want to assist other developers and hopefully, some will do more than just rip code. I'm also self taught, didn't use any services or anything, just YouTube (love you AngelSix and Tim Corey) and a lot of experimentation. I guarantee that you can learn this and more if you put your mind to it. Good luck and I hope everyone passing by has a great day!
+This project is intended for use in ISOs as a integrated resource for people that want a nice looking program without the worry of having to maintain it yourself.
 
 Credits:
 IoC Container (I modified it slightly) - https://www.codeproject.com/Articles/1075189/Lets-write-a-Tiny-IoC-Container-to-learn-and-for-f
